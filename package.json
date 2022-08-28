@@ -41,7 +41,7 @@
     "colors": "1.4.0",
     "command-line-basics": "^1.0.2",
     "mime": "^3.0.0",
-    "minimatch": "^5.0.1"
+    "minimatch": "^5.1.0"
   },
   "c8": {
     "exclude": [
